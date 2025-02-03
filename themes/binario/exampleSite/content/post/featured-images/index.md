@@ -1,6 +1,6 @@
 ---
 title: Featured Images
-description: "In this page, we will explain what featured images are and show you some examples how to add a featured \
+description: "In this page, we will explain what featured 2014-08-15-Solve-Simple-Problem-RabbitMQ-Setup are and show you some examples how to add a featured \
 image for a page."
 date: 2019-09-12
 ---
