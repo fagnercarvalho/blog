@@ -31,7 +31,7 @@ You can have 3 types of DI:
 
 Ninject provides a very elegant way to perform DI on C#, and my MongoDB code snippet posted right below was made using this framework, but you have many other options for use DI on C# like [Unity](http://msdn.microsoft.com/en-us/library/ff647202.aspx) or [Autofac](http://autofac.org/) frameworks.
 
-#### <a name="code"></a> DI on MongoDB CSharp Driver
+#### DI on MongoDB CSharp Driver
 
 MongoDB CSharp Driver, as the name says, is a library provided to access MongoDB databases using C#. In this library you have classes like MongoCollection, MongoDocument, MongoDatabase and so on that helps to interact with a MongoDB instance and develop an application with MongoDB and C# together as backend.
 

@@ -10,10 +10,7 @@ This post will be a simple tutorial to install, configure and use SonarQube to a
 
 **2-** Create a SQL Server database
 
-<p class="message">
-  If you don't have SQL Server installed download SQL Server Express, a
-  free and limited SQL Server edition option (<a href="https://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/overview.aspx">SQL Server editions comparison here</a>).
-</p>
+If you don't have SQL Server installed download SQL Server Express, a free and limited SQL Server edition option ([SQL Server editions comparison here](https://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/overview.aspx)).
 
 Run the following command:
 ```sql
