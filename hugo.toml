@@ -44,11 +44,13 @@ title = "Fagner's Blog"
 [Params.Social]
   linkedin = "fagnerncarvalho"
   github = "fagnercarvalho"
+  stackoverflow = "1459499"
 
 [Params.Share] # Entry Share block
   twitter = true
   reddit = true
   linkedin = true
+  stackoverflow = true
 
 [outputs]
   home = ["HTML", "RSS"]
